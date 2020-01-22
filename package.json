@@ -1,0 +1,16 @@
+{
+  "name": "node-healthcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicomf1982 <nicomf1982@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@cloudnative/health-connect": "^2.1.0",
+    "express": "^4.17.1"
+  }
+}
